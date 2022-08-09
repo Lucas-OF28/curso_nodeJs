@@ -1,0 +1,3 @@
+// instala de forma global
+// npm install -g lodash
+// npm link lodash      
